@@ -34,8 +34,9 @@ This VS Code color theme is inspired by **The Witcher 3: Wild Hunt** game. Immer
 ### Visual Studio Marketplace (Future Release)
 
 - Once the theme is uploaded to the Visual Studio Marketplace, you can install it directly through VS Code:
-  - In the **Extensions** panel, search for "The Witcher 3 Color Theme".
+  - In the **Extensions** panel, search for "The Witcher 3 Color Theme".(Or [Direct Link](https://marketplace.visualstudio.com/items?itemName=ulascan54.the-witcher-3-the-wild-hunt-color-theme))
   - Install and activate the theme.
+  - Go to the **Settings** menu, select **Color Theme**, and choose "The Witcher 3 The Wild Hunt Color Theme".
 
 ## Screenshots
 
