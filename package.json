@@ -2,7 +2,7 @@
     "name": "the-witcher-3-the-wild-hunt-color-theme",
     "displayName": "The Witcher 3 The Wild Hunt Color Theme",
     "description": "Immerse yourself in the dark, mystical world of The Witcher 3: Wild Hunt with this VS Code theme. Inspired by the game’s atmospheric tones, it brings a blend of moody, deep shades and sharp contrasts, reflecting the essence of Geralt’s adventures. Perfect for those who want a touch of fantasy and mystery in their coding environment.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "ulascan54",
     "repository": {
         "type": "git",
@@ -14,8 +14,7 @@
         "witcher",
         "wild",
         "hunt",
-        "color",
-        "theme"
+        "color"
     ],
     "engines": {
         "vscode": "^1.60.0"
@@ -31,7 +30,7 @@
             {
                 "label": "The Witcher 3 The Wild Hunt",
                 "uiTheme": "vs-dark",
-                "path": "./themes/the-witcher-3-the-wild-hunt-color-theme-color-theme.json"
+                "path": "./themes/the-witcher-3-the-wild-hunt-color-theme.json"
             }
         ]
     }
